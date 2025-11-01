@@ -1,0 +1,15 @@
+/* *{
+  background-color: rgb(244, 205, 166);
+} */
+thead {
+  color: #070800;
+  background-color:rgb(232, 240, 207)
+}
+tbody {
+  color: rgb(40, 6, 119);
+  background-color: bisque;
+}
+tfoot {
+  color: rgb(97, 3, 238);
+  background-color: rgb(225, 227, 207);
+}
